@@ -2,7 +2,7 @@ import { Request, Response } from "express";
 import knex from "../database/connection";
 
 class ItemsController {
-  async index(request: Request, response: Response) {
+  async index(req: Request, res: Response) {
     const items = await knex("items").select("*");
 
     const serializedItems = items.map((item) => {
@@ -12,7 +12,8 @@ class ItemsController {
         image_url: `http://localhost:3333/uploads/${item.image}`,
       };
     });
-    return response.json(serializedItems);
+
+    return res.json(serializedItems);
   }
 }
 
