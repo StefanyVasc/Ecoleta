@@ -20,6 +20,15 @@
 
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#projeto)
+
+## ➤ Projeto
+
+O Ecoleta é a ponte perfeita entre estabelecimentos que são pontos de coletas e pessoas que querem descartar algum tipo de material, seja ele orgânico ou inorgânico. 
+Para isso o Ecoleta conta com um sistema web onde é destinado aos donos de estabelecimentos, nele é possível fazer o cadastro dos pontos de coleta e os itens que serão coletados. Já para a população temos um aplicativo mobile que fornecerá os pontos especificos de coletas por localização e por aceitação de determinados tipos de descarte de itens. 
+
+
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#tecnologias)
 
@@ -37,6 +46,7 @@ Extras:
     * [Express](https://expressjs.com/pt-br/)
     * [Cors](https://www.npmjs.com/package/cors)
     * [KnexJS](http://knexjs.org/)
+    * [Axios](https://github.com/axios/axios)
   
   * Softwares
     * [VSCode](https://code.visualstudio.com/)
@@ -57,28 +67,28 @@ Caso queira acessar o layout basta [clicar aqui](https://www.figma.com/file/1Sxg
 
 ## ➤ Instalação
 
-O Backend foi construido em NodeJS, certifique-se de ter alguma versão do node instalada em sua máquina. Utilize o Insomnia para realizar os testes na API.
+O **Backend** foi construido em **NodeJS**, certifique-se de ter alguma versão do node instalada em sua máquina. Utilize o Insomnia para realizar os testes na API.
 
 Iniciando o backend: 
 ```
 cd server
 npm install
-npm start
+npm run dev
 ```
 
 Iniciando o **Frontend** em **ReactJS**: 
 
 ```
-cd frontend
+cd web
 npm install
-npm start
+npm run start
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página localhost:3000 contendo o Projeto.
 
 Iniciando com o **Mobile** em **React Native**
 
-    1.Coloque o endereço do seu servidor (ou computador) no arquivo src/services/api.js
+    1.Coloque o endereço do seu servidor (ou computador) no arquivo src/services/api.ts
     2. Execute os comandos:
    
   ```
