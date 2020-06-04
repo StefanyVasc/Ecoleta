@@ -11,12 +11,18 @@
 <a href="https://img.shields.io/badge/Made%20by-Stefany%20S%C3%A1-blueviolet?style=for-the-badge&logo=appveyor"><img alt="Made By" src="https://img.shields.io/badge/Made%20by-Stefany%20S%C3%A1-blueviolet?style=for-the-badge&logo=appveyor" height="20"/></a>
 	</p>
 
+
+<p align="center">
+    <a href="https://insomnia.rest/run/?label=server-ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-03.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+
 <p align="center">
   <b>Ecoleta</b></br>
   <sub>O Ecoleta é a ponte entre empresas que coletam resíduos sejam eles orgânicos ou inorgânicos com pessoas que estão procurando pontos para descartá-los.<sub>
 </p>
 
 <br />
+
 
 
 
@@ -59,8 +65,16 @@ Extras:
 
 ## ➤ Layout
 
-Caso queira acessar o layout basta [clicar aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)
+Caso queira acessar o layout inteiro basta [clicar aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)
 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#file-insomnia)
+
+## ➤ File Insomnia
+
+O arquivo .json com o arquivo usado no Insomnia está dentro da raiz do projeto. Basta fazer o download e importar no insomnia e usar. Lembre de alterar o que for necessário para que você consiga efetuar as requisições. Ou clique no botão para ser redirecionado. <br/>
+<br/>
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=server-ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-03.json)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#instalao)
@@ -101,3 +115,10 @@ Iniciando com o **Mobile** em **React Native**
 
 Será aberta no seu navegador a página localhost:19002. Conecte seu emulador, ou teste o aplicativo por LAN: baixe o aplicativo Expo da Play Store ou App Store e em seguida escaneie o código QR.
 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#crditos-)
+
+## ➤ Créditos 
+
+Aplicação criada durante o Next level Week, um evento criado pela [RocketSeat](https://rocketseat.com.br/) 🚀. <br/>
+Aulas conduzidas pelo [Diego Fernandes](https://github.com/diego3g)
