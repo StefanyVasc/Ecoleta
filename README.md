@@ -111,12 +111,14 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 Iniciando com o **Mobile** em **React Native**
 
-    1.Coloque o endereço do seu servidor (ou computador) no arquivo src/services/api.ts
-    2. Execute os comandos:
+  1.Coloque o endereço do seu servidor (ou computador) no arquivo *mobile/src/services/api.tsx*
+  <br/>
+  2. Execute os comandos:
    
   ```
   # NÃO é preciso executar a linha abaixo caso ja tenha o Expo (CLI) instalado!
   npm install -g expo-cli
+  //
   cd mobile
   npm install
   expo start
