@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    <a href="https://insomnia.rest/run/?label=server-ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-03.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+    <a href="https://insomnia.rest/run/?label=ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-09.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 <p align="center">
@@ -23,6 +23,10 @@
 
 <br />
 
+
+<div align="center">
+  <img src="web/src/assets/web-preview.png" alt="Preview Web"></img>
+</div>
 
 
 
@@ -67,10 +71,14 @@ Extras:
 
 Um preview sobre o projeto. Caso queira acessar o layout inteiro basta [clicar aqui](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
 
+
 <div align="center">
+  
   <img src="web/src/assets/mobile-preview.png" alt="Preview Mobile"></img>
   <img src="web/src/assets/web-preview.png" alt="Preview Web"></img>
 </div>
+
+
 
 <br/>
 
@@ -83,7 +91,7 @@ Um preview sobre o projeto. Caso queira acessar o layout inteiro basta [clicar a
 
 O arquivo .json com o arquivo usado no Insomnia está dentro da raiz do projeto. Basta fazer o download e importar no insomnia e usar. Lembre de alterar o que for necessário para que você consiga efetuar as requisições. Ou clique no botão para ser redirecionado. <br/>
 <br/>
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=server-ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-03.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-09.json)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#instalao)

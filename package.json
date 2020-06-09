@@ -1,0 +1,30 @@
+{
+  "name": "nlw-1",
+  "version": "1.0.0",
+  "description": "Ecoleta",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@appnest/readme": "^1.2.7"
+  },
+  "scripts": {
+    "generate": "node_modules/.bin/readme generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanyVasc/NLW-1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "react-native",
+    "fullstack",
+    "javascript"
+  ],
+  "author": "Stefany Sa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanyVasc/NLW-1/issues"
+  },
+  "homepage": "https://github.com/StefanyVasc/NLW-1#readme"
+}
