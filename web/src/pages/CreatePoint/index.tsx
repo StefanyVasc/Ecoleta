@@ -7,7 +7,7 @@ import { Link, useHistory } from "react-router-dom";
 import logo from "../../assets/logo.svg";
 import Dropzone from "../../components/Dropzone";
 import api from "../../services/api";
-import Modal from "../Shared/Modal";
+import Modal from "../Modal";
 import "./styles.css";
 
 interface Item {

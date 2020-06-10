@@ -1,6 +1,6 @@
 import React from "react";
 import { FiCheckCircle } from "react-icons/fi";
-import "./modal.css";
+import "./styles.css";
 
 const Modal: React.FC<{ show: boolean }> = ({ show }) => {
   const showHideClassName = show ? "modal display-block" : "modal display-none";
